@@ -1,0 +1,59 @@
+body {
+    background-color: gray;
+  }
+  h1 {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  #score {
+    display: block;;
+    color: white
+  }
+  
+  
+  #game {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  .choice {
+    margin: 0 10px;
+  }
+  
+  button {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #result {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  #reset {
+    display: block;
+    margin: 20px auto;
+    background-color: red;
+    color: white;
+   
+  }
+  
+  
+  #startTimer {
+    font-size: 18px;
+    padding: 10px 20px;
+    color:black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
